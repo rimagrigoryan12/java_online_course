@@ -8,6 +8,7 @@ public class Lesson1 {
         System.out.println(x);
 
 
+
         short y = 4542;
         System.out.println(y);
 
