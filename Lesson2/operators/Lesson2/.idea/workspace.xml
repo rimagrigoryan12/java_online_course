@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c30c89b-60cb-4503-9333-1cdfc86727b2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Operations.java" afterDir="false" />
+    <list default="true" id="0124bdf5-8f56-4c62-8b06-c1cda43507e3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Operation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lesson1/src/Lesson1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lesson1/src/Lesson1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,16 +24,29 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "rimagrigoryan12"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/rimagrigoryan12/java_online_course.git",
+    "accountId": "46bc4aa2-fb55-472b-918a-20ba1ea5d96a"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
-  <component name="ProjectId" id="2mI4AoGFUwXk7yEja7i6Miq8yDb" />
+  <component name="ProjectId" id="2mOLhTTCZH1hU9uYr43JiZWjaOT" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Operation.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -41,11 +56,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5c30c89b-60cb-4503-9333-1cdfc86727b2" name="Changes" comment="" />
-      <created>1726750644448</created>
+      <changelist id="0124bdf5-8f56-4c62-8b06-c1cda43507e3" name="Changes" comment="" />
+      <created>1726942797788</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1726750644448</updated>
+      <updated>1726942797788</updated>
     </task>
     <servers />
   </component>
